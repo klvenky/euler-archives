@@ -1,11 +1,11 @@
 {
   "files.exclude": {
-    "**?.git": true,
+    "**/.git": true,
     "**/__pycache__": true,
     "**/.ipynb_checkpoints": true,
     "**/*.pyc": true,
     "**/.idea": true,
   },
-  "python.pythonPath": "/usr/bin/python3",
+  "python.pythonPath": "/home/venkatesh/anaconda3/bin/python",
   "editor.tabSize": 4
 }

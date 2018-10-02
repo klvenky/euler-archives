@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-import sys
-sys.path.append('../common/')
-from common import is_prime as check_prime
+from solutions.common import is_prime as check_prime
 now = 0
 prime_count = 0
 n = 10001
