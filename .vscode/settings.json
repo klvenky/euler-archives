@@ -6,6 +6,6 @@
     "**/*.pyc": true,
     "**/.idea": true,
   },
-  "python.pythonPath": "/home/venkatesh/anaconda3/bin/python",
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "python.pythonPath": "venv/bin/python"
 }
